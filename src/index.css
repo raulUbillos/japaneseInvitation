@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "japanese";   /*Can be any text*/
+    src: local("JAPANESE_2020"),
+      url("./fonts/JAPANESE_2020.ttf") format("truetype");
+}
